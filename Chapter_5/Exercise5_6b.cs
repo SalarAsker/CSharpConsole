@@ -3,7 +3,7 @@ string[] manchester = { "red", "white" };
 string[] madrid = { "white", "yellow", "black" };
 string[] barcelona = { "red", "blue" };
 
-string[][] leagueShirtColor = new string[3][];
+string[][] leagueShirtColor = new string[4][];
 
 leagueShirtColor[0] = arsenal;
 leagueShirtColor[1] = manchester;
