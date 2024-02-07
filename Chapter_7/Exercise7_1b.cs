@@ -11,5 +11,3 @@ if(versal >= 65 && versal <=90){
 }else{
     Console.WriteLine($"Ogiltigt inmatning.");
 }
-
-char.
